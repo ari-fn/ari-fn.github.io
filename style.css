@@ -1440,17 +1440,3 @@ height:100%;
 width:100%;
 position:absolute;
 }
-
-body::-webkit-scrollbar {
-  width: 10px;               /* width of the entire scrollbar */
-}
-
-body::-webkit-scrollbar-track {
-  background: #E6E6E6;        /* color of the tracking area */
-}
-
-body::-webkit-scrollbar-thumb {
-  background-color: grey;    /* color of the scroll thumb */
-  border-radius: 20px;       /* roundness of the scroll thumb */
-  border: 1px solid #E6E6E6;  /* creates padding around scroll thumb */
-}
